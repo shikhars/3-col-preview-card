@@ -17,8 +17,8 @@ This is a solution to the [3-column preview card component challenge on Frontend
 
 ### Links
 
-- Solution URL: https://github.com/shikhars/qr-code
-- Live Site URL: https://shikhars.github.io/qr-code/
+- Solution URL: https://github.com/shikhars/3-col-preview-card
+- Live Site URL: https://shikhars.github.io/3-col-preview-card/
 
 ## My process
 
